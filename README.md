@@ -17,19 +17,26 @@ A comprehensive, database-driven web application built for the **DBMS (UE23CS351
 *   **🛠️ Admin Control Panel:** A separate interface for administrators to manage campus-wide resources.
 
 ## 📸 Application Preview
-![WhatsApp Image 2025-11-21 at 13 42 17_6b0dea06](https://github.com/user-attachments/assets/41adca8c-51de-41ed-95c7-f94b9371810b)
-![WhatsApp Image 2025-11-21 at 13 43 34_d6ed93eb](https://github.com/user-attachments/assets/dbfdd209-8e64-44eb-a0a0-86bbbda5cc0c)
 
-Here is a look at the main student dashboard, showcasing real-time analytics in a clean, dark-themed UI.
+| Registration Page | Login Page |
+|------------------|------------|
+| ![Registration Page](assets/Registration%20page.jpg) | ![Login Page](assets/Login%20page.jpg) |
 
-![WhatsApp Image 2025-11-21 at 13 45 50_86da0c68](https://github.com/user-attachments/assets/e09da21a-5fc9-49b8-afec-d5ceafcfe24c)
-![WhatsApp Image 2025-11-21 at 13 46 12_8465be6c](https://github.com/user-attachments/assets/9fc5cb3f-1516-4e15-9b1c-801b16f6cf31)
-![WhatsApp Image 2025-11-21 at 13 46 30_53070aae](https://github.com/user-attachments/assets/84ca036a-423e-445c-b8e9-c0af34190c82)
-![WhatsApp Image 2025-11-21 at 13 46 51_23d84c14](https://github.com/user-attachments/assets/317e4ec1-a657-44f9-86d8-de76e5312b4c)
-![WhatsApp Image 2025-11-21 at 13 47 21_4f334074](https://github.com/user-attachments/assets/ee084865-8a8e-46eb-a866-5ba7b77748b4)
-![WhatsApp Image 2025-11-21 at 13 47 34_419095d5](https://github.com/user-attachments/assets/8d2f7c2d-fd07-44e4-9e43-1652b7740dd8)
+| Student Dashboard | Courses Page |
+|------------------|--------------|
+| ![Dashboard](assets/Dashboard.jpg) | ![Courses](assets/Courses.jpg) |
 
-*(**Action Required:** Replace the link above with a link to a screenshot of your dashboard in your repository)*
+| Tasks Page | Study Sessions |
+|------------|----------------|
+| ![Tasks](assets/Tasks.jpg) | ![StudySessions](assets/StudySessions.jpg) |
+
+| Wellness Tracker | Notification Panel |
+|-----------------|---------------------|
+| ![Wellness](assets/Wellness.jpg) | ![Notification](assets/Notification.jpg) |
+
+| Logs | Admin Dashboard |
+|------|-----------------|
+| ![Logs](assets/Logs.jpg) | ![Admin Dashboard](assets/Admin%20Dashboard.jpg) |
 
 ## 🛠️ Technology Stack
 
@@ -154,3 +161,4 @@ SmartStudyPlanner/
 *   This project was completed as part of the **Database Management System (UE23CS351A)** course at **PES University**.
 *   We thank our professor, **Prof. Nivedita Kasturi, Assistant Professor**, for their guidance and support.
 ```
+
